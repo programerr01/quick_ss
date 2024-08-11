@@ -1,5 +1,5 @@
 ## Screenshot to Telegram 
-**Send Screenshot directly to telegram without needing to save them locally** 
+**Send Screenshot directly to telegram without needing to save them locally with quick shortcut (CTRL + K)** 
 
 ![ezgif-2-2d47449b7c](https://github.com/user-attachments/assets/a7860eee-b8df-4486-b0cf-61689f34d69e)
 
