@@ -1,7 +1,7 @@
 ## Screenshot to Telegram 
 **Send Screenshot directly to telegram without needing to save them locally** 
 
-![image](https://github.com/user-attachments/assets/e788a5bf-51c4-4bfc-9234-b8d21a86ef8a)
+![ezgif-2-2d47449b7c](https://github.com/user-attachments/assets/a7860eee-b8df-4486-b0cf-61689f34d69e)
 
 ## Running 
 `pip install -r requriements.txt`
